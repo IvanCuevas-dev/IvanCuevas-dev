@@ -1,7 +1,9 @@
 # Iván Cuevas · Desarrollador Web
 
-Desarrollador de Aplicaciones Web Junior en constante crecimiento,  
-enfocado en construir proyectos reales con código limpio y bien estructurado.
+Desarrollador de Aplicaciones Web Junior con una pasión real por la programación.  
+Me gusta entender cómo funcionan las cosas por dentro, y eso me lleva a estar  
+siempre buscando cómo mejorar.
+Cada proyecto es una oportunidad de aprender algo nuevo y de hacerlo mejor que la vez anterior.
 
 ---
 
@@ -12,6 +14,7 @@ enfocado en construir proyectos reales con código limpio y bien estructurado.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -20,15 +23,17 @@ enfocado en construir proyectos reales con código limpio y bien estructurado.
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [Proyecto IKUS](https://github.com/IvanCuevas-dev/ProyectoIkus) | Juego de rol y estrategia online — TFG | React + Laravel |
-| [PokéCollect](https://github.com/IvanCuevas-dev/pokecollect) | Colección de tarjetas Pokémon | Laravel + Blade |
+| [PokéCollect](https://github.com/IvanCuevas-dev/pokecollect) | Colección de tarjetas Pokémon | React + Laravel |
 | [Pokédex](https://github.com/IvanCuevas-dev/pokedex) | Pokédex interactiva | JavaScript + Tailwind |
 
 ---
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanCuevas-dev&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCuevas-dev&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanCuevas-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCuevas-dev&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" />
+</p>
 
 ---
 
