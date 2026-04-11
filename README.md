@@ -1,8 +1,7 @@
 # Iván Cuevas · Desarrollador Web
 
 Desarrollador de Aplicaciones Web Junior con una pasión real por la programación.  
-Me gusta entender cómo funcionan las cosas por dentro, y eso me lleva a estar  
-siempre buscando cómo mejorar.
+Me gusta entender cómo funcionan las cosas por dentro, y eso me lleva a estar siempre buscando cómo mejorar.
 Cada proyecto es una oportunidad de aprender algo nuevo y de hacerlo mejor que la vez anterior.
 
 ---
