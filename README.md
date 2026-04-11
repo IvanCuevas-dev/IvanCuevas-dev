@@ -28,15 +28,6 @@ Cada proyecto es una oportunidad de aprender algo nuevo y de hacerlo mejor que l
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanCuevas-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCuevas-dev&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" />
-</p>
-
----
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivancuevas-dev)
