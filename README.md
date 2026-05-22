@@ -1,4 +1,4 @@
-# Iván Cuevas · Desarrollador Web
+# Iván Cuevas Salguero · Desarrollador Web
 
 Me gusta entender cómo funcionan las cosas por dentro, y eso me lleva a estar siempre buscando cómo mejorar.
 Cada proyecto es una oportunidad de aprender algo nuevo y hacerlo mejor que la anterior.
