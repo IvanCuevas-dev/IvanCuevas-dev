@@ -1,32 +1,35 @@
-# Iván Cuevas Salguero · Desarrollador Web
+<div align="center">
+# Hi, I'm Iván Cuevas 👋
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=IvanCuevas-dev&color=blue)
+ 
+**Web Developer** from Valladolid, Spain 🇪🇸
 
-Me gusta entender cómo funcionan las cosas por dentro, y eso me lleva a estar siempre buscando cómo mejorar.
-Cada proyecto es una oportunidad de aprender algo nuevo y hacerlo mejor que la anterior.
-
----
-
+🎓 Web Application Development degree (DAW) — Universidad Alfonso X El Sabio
+<br>
+🔧 Focused on **backend development**
+<br>
+📩 Reach me at **csalgueroivan@gmail.com**
+ 
 ## 🛠️ Stack
+ 
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,js,react,tailwind,git,html,css,mongodb)](https://skillicons.dev)
+ 
+## 🚀 Projects
+ 
+| Project | Description | Stack |
+|---|---|---|
+| [IKUS](https://github.com/IvanCuevas-dev/ProyectoIkus) | Online RPG & strategy game — Final Degree Project | Laravel + React |
+| [PokéCollect](https://github.com/IvanCuevas-dev/pokecollect) | Pokémon card collection app | Laravel + React |
+| [Pokédex](https://github.com/IvanCuevas-dev/pokedex) | Interactive Pokémon encyclopedia | JavaScript + Tailwind |
+ 
+## 📊 GitHub Stats
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-## 🚀 Proyectos
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [Proyecto IKUS](https://github.com/IvanCuevas-dev/ProyectoIkus) | Juego de rol y estrategia online — TFG | React + Laravel |
-| [PokéCollect](https://github.com/IvanCuevas-dev/pokecollect) | Colección de tarjetas Pokémon | React + Laravel |
-| [Pokédex](https://github.com/IvanCuevas-dev/pokedex) | Pokédex interactiva | JavaScript + Tailwind |
-
----
-
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivancuevas-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:csalgueroivan@gmail.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanCuevas-dev&theme=tokyonight)
+ 
+## 📬 Connect with me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivancuevas-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csalgueroivan@gmail.com)
+ 
+</div>
