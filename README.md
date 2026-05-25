@@ -4,10 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IvanCuevas-dev&color=blue)
 
-**Web Developer** from Valladolid, Spain 🇪🇸
-
-<h2>🧑‍💻 About me</h2>
-
 🎓 Web Application Development (DAW) — Universidad Alfonso X El Sabio
 <br>
 🔧 Focused on **backend development**
