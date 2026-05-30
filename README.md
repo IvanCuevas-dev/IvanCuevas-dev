@@ -6,7 +6,7 @@
 
 🎓 Web Application Development (DAW) — Universidad Alfonso X El Sabio
 <br>
-🔧 Focused on **backend development**
+🔧 Focused on **Backend Development**
 <br>
 📩 Reach me at **csalgueroivan@gmail.com**
 
