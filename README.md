@@ -19,6 +19,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [IKUS](https://github.com/IvanCuevas-dev/ProyectoIkus) | Online RPG & strategy game — Final Degree Project | Laravel + React |
+| [InvestAI](https://github.com/IvanCuevas-dev/InvestAI) | Investment portfolio analyzer - Integrates AI | Laravel + React |
 | [PokéCollect](https://github.com/IvanCuevas-dev/pokecollect) | Pokémon card collection app | Laravel + React |
 | [Pokédex](https://github.com/IvanCuevas-dev/pokedex) | Interactive Pokémon encyclopedia | JavaScript + Tailwind |
 
